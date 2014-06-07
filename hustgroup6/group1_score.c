@@ -7,7 +7,7 @@ main()
 printf("Xufengli, slowsharp, 6, 90\n");
 printf("Liugaoyang, hust65536, 6, 90\n");
 printf("HuangGuangZhou, husthgz, 6, 90\n");
-printf("Linmiaomiao, KardLu, 5, 90\n");
+printf("HuTingzhou, canoepayne, 6, 90\n");
 return 0;
 
 }
