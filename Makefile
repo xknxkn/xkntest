@@ -22,5 +22,4 @@ test:
 	make -C hustgroup2 test
 	make -C hustgroup3 test
 	make -C hustgroup4 test
-	make -C hustgroup5 test
-
+	make -C hustgroup4 test
