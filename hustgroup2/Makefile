@@ -1,10 +1,10 @@
-all: group1_score
+all: group2_score
 	
 
-group1_score:group1_score.c
-	gcc -o group1_score group1_score.c
+group1_score:group2_score.c
+	gcc -o group2_score group2_score.c
 test:
-	./group1_score >> ../score_record.txt
+	./group2_score >> ../score_record.txt
 clean:
-	rm -f group1_score *.o core 
+	rm -f group2_score *.o core 
 
