@@ -8,6 +8,10 @@ printf("Xuhao, shmilyhh, 5, 90\n");
 printf("Luzenong, KardLu, 5, 90\n");
 printf("Xinyu, FCSCanal, 5, 90\n");
 printf("houyuhan,hyieeh,5,90\n");
+<<<<<<< HEAD
+=======
+
+>>>>>>> fd3f3383a314cfe0cb507d6c1d124995feacc54e
 return 0;
 
 }
