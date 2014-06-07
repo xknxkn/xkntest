@@ -1,6 +1,23 @@
 This is for HUST ESD course 2014 score
 Name,GithubID,Section,Score
-This is for HUST ESD course 2014 score
 Xuhao, shmilyhh, 5, 90
-Luzenong, KardLu, 5, 90
 Xinyu, FCSCanal, 5, 90
+Luzenong, KardLu, 5, 90
+Linmiaomiao, KardLu, 5, 90
+houyuhan,hyieeh,5,90
+This is for HUST ESD course 2014 score
+buyao,byforbest, 1,90
+caorong,freewind2014, 1,90
+tandongcai,tancongcai, 1,90
+sunluyao,LuyaoSun, 1,90
+yeyuanqing,yuanqingyeah, 1,90
+This is for HUST ESD course 2014 score
+Xu Jiashen,peterxujia, 3,90
+Ouyangxi,Jimmy-ouyang, 3,90
+Juronghui,jrhgreat, 3,90
+Fengchiming,steveming, 3,90
+吕鹏原,lvpyuan, 1,90
+薛彧,dowhat, 1,90
+杜诗灏,lovecd, 1,90
+肖璇,kittyxiao, 1,90
+凌佳佳,lingjiajia, 1,90
