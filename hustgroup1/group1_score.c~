@@ -5,11 +5,8 @@ main()
 
 printf("This is for HUST ESD course 2014 score\n"); 
 printf("Xuhao, shmilyhh, 5, 90\n");
-<<<<<<< HEAD
 printf("Xinyu, FCSCanal, 5, 90\n");
-=======
 printf("Luzenong, KardLu, 5, 90\n");
->>>>>>> 86a2782b522ac7c9508fa99d882c51fd20b2f006
 
 return 0;
 
