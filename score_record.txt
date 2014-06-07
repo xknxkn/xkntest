@@ -1,11 +1,14 @@
 This is for HUST ESD course 2014 score
 Name,GithubID,Section,Score
+Xuhao, shmilyhh, 5, 90
+Xinyu, FCSCanal, 5, 90
+<<<<<<< HEAD
 This is for HUST ESD course 2014 score
 Xuhao, shmilyhh, 5, 90
 Luzenong, KardLu, 5, 90
 Xinyu, FCSCanal, 5, 90
-This is for HUST ESD course 2014 score
-Xuhao, shmilyhh, 5, 90
+=======
 Luzenong, KardLu, 5, 90
-Xinyu, FCSCanal, 5, 90
+Linmiaomiao, KardLu, 5, 90
+>>>>>>> 0ff4223fac7f22a74cc705c9431d992324d2b5f1
 houyuhan,hyieeh,5,90
