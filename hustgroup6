@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+printf("This is for HUST ESD course 2014 score\n"); 
+printf("liugaoyang,hust65536, 1,100\n");
+return 0;
+}
