@@ -20,6 +20,12 @@ printf("chengtianchang,CTCbaxia,3,80\n");
 printf("chengtianchang,CTCbaxia,4,85\n");
 printf("chengtianchang,CTCbaxia,5,85\n");
 
+printf("chenchen,KKNWtinacc,1,80\n");
+printf("chenchen,KKNWtinacc,2,85\n");
+printf("chenchen,KKNWtinacc,3,85\n");
+printf("chenchen,KKNWtinacc,4,80\n");
+printf("chenchen,KKNWtinacc,5,85\n");
+
 
 
 
