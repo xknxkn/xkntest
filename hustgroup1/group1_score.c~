@@ -9,7 +9,6 @@ printf("Xinyu, FCSCanal, 5, 90\n");
 printf("Luzenong, KardLu, 5, 90\n");
 printf("Linmiaomiao, linmiaomiao, 5, 90\n");
 printf("houyuhan,hyieeh,5,90\n");
-printf("wangyuhao,wyhgithub,5,90\n");
 return 0;
 
 }
