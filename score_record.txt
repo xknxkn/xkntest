@@ -11,24 +11,53 @@ buyao,byforbest, 1,90
 CaoRong,freewind2014, 1,90
 TanDongcai,tancongcai, 1,90
 SunLuyao,LuyaoSun, 1,90
-yeyuanqing,yuanqingyeah, 1,90
+Yeyuanqing,yuanqingyeah, 1,90
 This is for HUST ESD course 2014 score
 Xu Jiashen,peterxujia, 3,90
 Ouyangxi,Jimmy-ouyang, 3,90
 Juronghui,jrhgreat, 3,90
 Fengchiming,steveming, 3,90
 Huangxiaoyao,sigsawa, 3,90
-吕鹏原,lvpyuan, 4,90
-薛彧,dowhat, 4,90
+吕鹏原,lvpyuan, 4,91
+薛彧,dowhat, 4,91
 杜诗灏,LoveCD, 4,99
-肖璇,kittyxiao, 4,90
-凌佳佳,lingjiajia, 4,90
-qiaoyang,yang1young, 1,100
-xiongfeng,xiongbanban,1,99
-chenchen,KKNWtinacc,1,100
-chengtianchang,CTCbaxia,1,100
-cuihaoran,cuihaoran,1,100
+group4,肖璇,kittyxiao,Lab1-1,10,80
+group4,肖璇,kittyxiao,Lab1-2,15,70
+group4,肖璇,kittyxiao,Lab2-1,1,100
+group4,肖璇,kittyxiao,Lab2-2,2,90
+group4,肖璇,kittyxiao,Lab2-3,1,100
+group4,肖璇,kittyxiao,Lab2-4,1,100
+group4,肖璇,kittyxiao,Lab2-5,2,90
+group4,肖璇,kittyxiao,Lab3-1,3,80
+group4,肖璇,kittyxiao,Lab3-2,3,80
+group4,肖璇,kittyxiao,Lab3-3,5,70
+group4,肖璇,kittyxiao,Lab3-4,4,75
+group4,肖璇,kittyxiao,Lab4-1,1,100
+group4,肖璇,kittyxiao,Lab4-2,1,100
+group4,肖璇,kittyxiao,Lab4-3,2,98
+group4,肖璇,kittyxiao,Lab4-4,1,100
+凌佳佳,lingjiajia, 4,91
+xiongfeng,xiongbanban,1,80
+xiongfeng,xiongbanban,2,80
+xiongfeng,xiongbanban,3,80
+xiongfeng,xiongbanban,4,70
+xiongfeng,xiongbanban,5,85
+cuihaoran,cuihaoran,1,80
+cuihaoran,cuihaoran,2,80
+cuihaoran,cuihaoran,3,80
+cuihaoran,cuihaoran,4,70
+cuihaoran,cuihaoran,5,85
+chengtianchang,CTCbaxia,1,85
+chengtianchang,CTCbaxia,2,85
+chengtianchang,CTCbaxia,3,80
+chengtianchang,CTCbaxia,4,85
+chengtianchang,CTCbaxia,5,85
+chenchen,KKNWtinacc,1,80
+chenchen,KKNWtinacc,2,85
+chenchen,KKNWtinacc,3,85
+chenchen,KKNWtinacc,4,80
+chenchen,KKNWtinacc,5,85
 Xufengli, slowsharp, 6, 90
 Liugaoyang, hust65536, 6, 90
 HuangGuangZhou, husthgz, 6, 90
-Linmiaomiao, KardLu, 5, 90
+HuTingzhou, canoepayne, 6, 90
