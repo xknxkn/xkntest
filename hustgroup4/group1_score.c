@@ -4,7 +4,7 @@ main()
 {
 //printf("Group,Name,GithubID,Chapter,Section,Score\n");
 printf("吕鹏原,lvpyuan, 4,91\n");
-printf("薛彧,dowhat, 4,91\n");
+printf("薛彧,dowhat, 4,93\n");
 printf("杜诗灏,LoveCD, 4,99\n");
 printf("group4,肖璇,kittyxiao,Lab1-1,10,80\n");
 printf("group4,肖璇,kittyxiao,Lab1-2,15,70\n");
