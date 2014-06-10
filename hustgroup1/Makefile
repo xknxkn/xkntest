@@ -8,5 +8,5 @@ test:
 	./group1_score >> ../score_record.txt
 
 clean:
-	rm -f group1_score *.o core 
+	rm -f group1_score *.o core *~ 
 
