@@ -37,6 +37,22 @@ printf("group4,凌佳佳,lingjiajia,Lab4-1,1,100\n");
 printf("group4,凌佳佳,lingjiajia,Lab4-2,1,100\n");
 printf("group4,凌佳佳,lingjiajia,Lab4-3,2,98\n");
 printf("group4,凌佳佳,lingjiajia,Lab4-4,1,100\n");
+
+printf("group4,薛彧,dowhat,Lab1-1,20,60\n");
+printf("group4,薛彧,dowhat,Lab1-2,19,60\n");
+printf("group4,薛彧,dowhat,Lab2-1,1,100\n");
+printf("group4,薛彧,dowhat,Lab2-2,2,90\n");
+printf("group4,薛彧,dowhat,Lab2-3,1,100\n");
+printf("group4,薛彧,dowhat,Lab2-4,1,100\n");
+printf("group4,薛彧,dowhat,Lab2-5,2,90\n");
+printf("group4,薛彧,dowhat,Lab3-1,3,80\n");
+printf("group4,薛彧,dowhat,Lab3-2,3,80\n");
+printf("group4,薛彧,dowhat,Lab3-3,5,70\n");
+printf("group4,薛彧,dowhat,Lab3-4,4,75\n");
+printf("group4,薛彧,dowhat,Lab4-1,1,100\n");
+printf("group4,薛彧,dowhat,Lab4-2,1,100\n");
+printf("group4,薛彧,dowhat,Lab4-3,2,98\n");
+printf("group4,薛彧,dowhat,Lab4-4,1,100\n");
 return 0;
 
 }
