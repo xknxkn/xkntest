@@ -25,6 +25,7 @@ printf("houyuhan,hyieeh,lab4-4,2,95\n");
 printf("Luzenong, KardLu, 5, 90\n");
 printf("Linmiaomiao, linmiaomiao, 5, 90\n");
 printf("houyuhan,hyieeh,5,90\n");
+printf("wangyuhao,wyhgithub,5,90\n");
 >>>>>>> ec3fa03314ac89e3bc5cb0339a68592af48c9543
 return 0;
 
