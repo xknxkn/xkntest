@@ -66,6 +66,22 @@ printf("group4,薛彧,dowhat,Lab4-1,1,100\n");
 printf("group4,薛彧,dowhat,Lab4-2,1,100\n");
 printf("group4,薛彧,dowhat,Lab4-3,2,98\n");
 printf("group4,薛彧,dowhat,Lab4-4,1,100\n");
+
+printf("group4,杜诗灏，LoveCD,Lab1-1,20,75\n");
+printf("group4,杜诗灏，LoveCD,Lab1-2,19,75\n");
+printf("group4,杜诗灏，LoveCD,Lab2-1,1,100\n");
+printf("group4,杜诗灏，LoveCD,Lab2-2,2,90\n");
+printf("group4,杜诗灏，LoveCD,Lab2-3,1,100\n");
+printf("group4,杜诗灏，LoveCD,Lab2-4,1,100\n");
+printf("group4,杜诗灏，LoveCD,Lab2-5,2,90\n");
+printf("group4,杜诗灏，LoveCD,Lab3-1,3,80\n");
+printf("group4,杜诗灏，LoveCD,Lab3-2,3,80\n");
+printf("group4,杜诗灏，LoveCD,Lab3-3,5,70\n");
+printf("group4,杜诗灏，LoveCD,Lab3-4,4,75\n");
+printf("group4,杜诗灏，LoveCD,Lab4-1,1,100\n");
+printf("group4,杜诗灏，LoveCD,Lab4-2,1,100\n");
+printf("group4,杜诗灏，LoveCD,Lab4-3,2,95\n");
+printf("group4,杜诗灏，LoveCD,Lab4-4,1,100\n");
 return 0;
 
 }
