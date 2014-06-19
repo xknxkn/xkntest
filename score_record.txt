@@ -124,7 +124,21 @@ chenchen,KKNWtinacc,2,85
 chenchen,KKNWtinacc,3,85
 chenchen,KKNWtinacc,4,80
 chenchen,KKNWtinacc,5,85
-Xufengli, slowsharp, 6, 90
+group6,徐丰力,slowsharp,Lab1-1,5,80
+group6,徐丰力,slowsharp,Lab1-2,5,75
+group6,徐丰力,slowsharp,Lab2-1,3,90
+group6,徐丰力,slowsharp,Lab2-2,3,90
+group6,徐丰力,slowsharp,Lab2-3,2,90
+group6,徐丰力,slowsharp,Lab2-4,4,85
+group6,徐丰力,slowsharp,Lab2-5,2,90
+group6,徐丰力,slowsharp,Lab3-1,4,90
+group6,徐丰力,slowsharp,Lab3-2,4,90
+group6,徐丰力,slowsharp,Lab3-3,4,90
+group6,徐丰力,slowsharp,Lab3-4,4,90
+group6,徐丰力,slowsharp,Lab4-1,2,90
+group6,徐丰力,slowsharp,Lab4-2,2,90
+group6,徐丰力,slowsharp,Lab4-3,3,90
+group6,徐丰力,slowsharp,Lab4-4,3,90
 group6,刘高扬,hust65536,Lab1-1,5,80
 group6,刘高扬,hust65536,Lab1-2,5,75
 group6,刘高扬,hust65536,Lab2-1,3,90
