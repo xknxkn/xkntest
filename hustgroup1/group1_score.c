@@ -41,8 +41,9 @@ printf("group1,卢泽农,KardLu,lab3-2,3,90\n");
 printf("group1,卢泽农,KardLu,lab3-3,1,100\n");
 printf("group1,卢泽农,KardLu,lab3-4,1,100\n");
 printf("group1,卢泽农,KardLu,lab3-5,1,100\n");
-printf("group1,卢泽农,KardLu,lab4-2,4,80\n");
-printf("group1,卢泽农,KardLu,lab4-3,4,100\n");
+printf("group1,卢泽农,KardLu,lab4-1,4,90\n");
+printf("group1,卢泽农,KardLu,lab4-2,4,90\n");
+printf("group1,卢泽农,KardLu,lab4-3,4,90\n");
 printf("group1,卢泽农,KardLu,lab4-4,2,95\n");
 
 
