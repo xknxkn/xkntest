@@ -1,7 +1,5 @@
 This is for HUST ESD course 2014 score
 Group,Name,GithubID,Chapter,Section,Score
-Xuhao, shmilyhh, 5, 90
-Xinyu, FCSCanal, 5, 90
 houyuhan,hyieeh,helloworld,9,80
 houyuhan,hyieeh,coredump,8,80
 houyuhan,hyieeh,lab2-4,1,100
@@ -13,38 +11,117 @@ houyuhan,hyieeh,lab3-5,1,100
 houyuhan,hyieeh,lab4-2,4,80
 houyuhan,hyieeh,lab4-3,4,100
 houyuhan,hyieeh,lab4-4,2,95
-linmiaomiao,linmiaomiao,helloworld,5,85
-linmiaomiao,linmiaomiao,coredump,8,80
-linmiaomiao,linmiaomiao,lab2-4,1,100
-linmiaomiao,linmiaomiaoh,lab3-1,1,100
-linmiaomiao,linmiaomiao,lab3-2,3,90
-linmiaomiao,linmiaomiao,lab3-3,1,100
-linmiaomiao,linmiaomiao,lab3-4,1,100
-linmiaomiao,linmiaomiao,lab3-5,1,100
-linmiaomiao,linmiaomiao,lab4-2,4,80
-linmiaomiao,linmiaomiao,lab4-3,4,100
-linmiaomiao,linmiaomiao,lab4-4,2,95
-Luzenong, KardLu, 5, 90
-Linmiaomiao, linmiaomiao, 5, 90
-houyuhan,hyieeh,5,90
-wangyuhao,wyhgithub,5,90
+group1,林苗苗,linmiaomiao,helloworld,5,85
+group1,林苗苗,linmiaomiao,coredump,8,80
+group1,林苗苗,linmiaomiao,lab2-4,1,100
+group1,林苗苗,linmiaomiaoh,lab3-1,1,100
+group1,林苗苗,linmiaomiao,lab3-2,3,90
+group1,林苗苗,linmiaomiao,lab3-3,1,100
+group1,林苗苗,linmiaomiao,lab3-4,1,100
+group1,林苗苗,linmiaomiao,lab3-5,1,100
+group1,林苗苗,linmiaomiao,lab4-2,4,80
+group1,林苗苗,linmiaomiao,lab4-3,4,100
+group1,林苗苗,linmiaomiao,lab4-4,2,95
+group1,卢泽农,KardLu,lab1-1,3,95
+group1,卢泽农,KardLu,lab1-2,3,90
+group1,卢泽农,KardLu,lab2-1,1,100
+group1,卢泽农,KardLu,lab2-2,1,100
+group1,卢泽农,KardLu,lab2-3,1,100
+group1,卢泽农,KardLu,lab2-4,1,100
+group1,卢泽农,KardLu,lab3-1,1,100
+group1,卢泽农,KardLu,lab3-2,3,90
+group1,卢泽农,KardLu,lab3-3,1,100
+group1,卢泽农,KardLu,lab3-4,1,100
+group1,卢泽农,KardLu,lab3-5,1,100
+group1,卢泽农,KardLu,lab4-1,4,90
+group1,卢泽农,KardLu,lab4-2,4,90
+group1,卢泽农,KardLu,lab4-3,4,90
+group1,卢泽农,KardLu,lab4-4,2,95
 This is for HUST ESD course 2014 score
-group1,曹荣,freewind, Lab1-1,1,90
-group1,曹荣,freewind, Lab1-2,1,90
-group1,曹荣,freewind, Lab2-1,1,90
-group1,曹荣,freewind, Lab2-2,1,90
-group1,曹荣,freewind, Lab2-3,1,90
-group1,曹荣,freewind, Lab2-4,1,90
-group1,曹荣,freewind, Lab2-5,1,90
-group1,曹荣,freewind, Lab3-1,1,90
-group1,曹荣,freewind, Lab3-2,1,90
-group1,曹荣,freewind, Lab3-3,1,90
-group1,曹荣,freewind, Lab3-4,1,90
-group1,曹荣,freewind, Lab3-5,1,90
-group1,曹荣,freewind, Lab4-1,1,90
-group1,曹荣,freewind, Lab4-2,1,90
-group1,曹荣,freewind, Lab4-3,1,90
-group1,曹荣,freewind, Lab4-4,1,90
+group2,曹荣,freewind, Lab1-1,17,70
+group2,曹荣,freewind, Lab1-2,11,75
+group2,曹荣,freewind, Lab2-1,1,100
+group2,曹荣,freewind, Lab2-2,2,90
+group2,曹荣,freewind, Lab2-3,3,85
+group2,曹荣,freewind, Lab2-4,3,85
+group2,曹荣,freewind, Lab3-1,1,100
+group2,曹荣,freewind, Lab3-2,3,85
+group2,曹荣,freewind, Lab3-3,2,90
+group2,曹荣,freewind, Lab3-4,4,80
+group2,曹荣,freewind, Lab4-1,6,70
+group2,曹荣,freewind, Lab4-2,6,70
+group2,曹荣,freewind, Lab4-3,6,70
+group2,曹荣,freewind, Lab4-4,6,70
+group2,歩遥,byforbest, Lab1-1,11,80
+group2,歩遥,byforbest, Lab1-2,7,95
+group2,歩遥,byforbest, Lab2-1,1,100
+group2,歩遥,byforbest, Lab2-2,2,90
+group2,歩遥,byforbest, Lab2-3,3,85
+group2,歩遥,byforbest, Lab2-4,3,85
+group2,歩遥,byforbest, Lab3-1,1,100
+group2,歩遥,byforbest, Lab3-2,3,85
+group2,歩遥,byforbest, Lab3-3,2,90
+group2,歩遥,byforbest, Lab3-4,4,80
+group2,歩遥,byforbest, Lab4-1,6,70
+group2,歩遥,byforbest, Lab4-2,6,70
+group2,歩遥,byforbest,Lab4-3,6,70
+group2,歩遥,byforbest, Lab4-4,6,70
+group2,孙路遥,LuyaoSun, Lab1-1,14,80
+group2,孙路遥,LuyaoSun, Lab1-2,1,100
+group2,孙路遥,LuyaoSun, Lab2-1,1,100
+group2,孙路遥,LuyaoSun, Lab2-2,2,90
+group2,孙路遥,LuyaoSun, Lab2-3,3,85
+group2,孙路遥,LuyaoSun, Lab2-4,3,85
+group2,孙路遥,LuyaoSun, Lab3-1,1,100
+group2,孙路遥,LuyaoSun, Lab3-2,3,85
+group2,孙路遥,LuyaoSun, Lab3-3,2,90
+group2,孙路遥,LuyaoSun, Lab3-4,4,80
+group2,孙路遥,LuyaoSun, Lab4-1,6,70
+group2,孙路遥,LuyaoSun, Lab4-2,6,70
+group2,孙路遥,LuyaoSun,Lab4-3,6,70
+group2,孙路遥,LuyaoSun, Lab4-4,6,70
+group2,叶源清,yuanqingyeah, Lab1-1,5,95
+group2,叶源清,yuanqingyeah, Lab1-2,9,90
+group2,叶源清,yuanqingyeah, Lab2-1,1,100
+group2,叶源清,yuanqingyeah, Lab2-2,2,90
+group2,叶源清,yuanqingyeah, Lab2-3,3,85
+group2,叶源清,yuanqingyeah, Lab2-4,3,85
+group2,叶源清,yuanqingyeah, Lab3-1,1,100
+group2,叶源清,yuanqingyeah, Lab3-2,3,85
+group2,叶源清,yuanqingyeah, Lab3-3,2,90
+group2,叶源清,yuanqingyeah, Lab3-4,4,80
+group2,叶源清,yuanqingyeah, Lab4-1,6,70
+group2,叶源清,yuanqingyeah, Lab4-2,6,70
+group2,叶源清,yuanqingyeah,Lab4-3,6,70
+group2,叶源清,yuanqingyeah, Lab4-4,6,70
+group2,谭栋材,tandongcai, Lab1-1,7,90
+group2,谭栋材,tandongcai, Lab1-2,18,70
+group2,谭栋材,tandongcai, Lab2-1,1,100
+group2,谭栋材,tandongcai, Lab2-2,2,90
+group2,谭栋材,tandongcai, Lab2-3,3,85
+group2,谭栋材,tandongcai, Lab2-4,3,85
+group2,谭栋材,tandongcai, Lab3-1,1,100
+group2,谭栋材,tandongcai, Lab3-2,3,85
+group2,谭栋材,tandongcai, Lab3-3,2,90
+group2,谭栋材,tandongcai, Lab3-4,4,80
+group2,谭栋材,tandongcai, Lab4-1,6,70
+group2,谭栋材,tandongcai, Lab4-2,6,70
+group2,谭栋材,tandongcai,Lab4-3,6,70
+group2,谭栋材,tandongcai, Lab4-4,6,70
+group2,叶凡,icyyyy, Lab1-1,19,70
+group2,叶凡,icyyyy, Lab1-2,16,75
+group2,叶凡,icyyyy, Lab2-1,1,100
+group2,叶凡,icyyyy, Lab2-2,2,90
+group2,叶凡,icyyyy, Lab2-3,3,85
+group2,叶凡,icyyyy, Lab2-4,3,85
+group2,叶凡,icyyyy, Lab3-1,1,100
+group2,叶凡,icyyyy, Lab3-2,3,85
+group2,叶凡,icyyyy, Lab3-3,2,90
+group2,叶凡,icyyyy, Lab3-4,4,80
+group2,叶凡,icyyyy, Lab4-1,6,70
+group2,叶凡,icyyyy, Lab4-2,6,70
+group2,叶凡,icyyyy,Lab4-3,6,70
+group2,叶凡,icyyyy, Lab4-4,6,70
 group3,巨荣辉,jrhgreat,Lab1-1,15,75
 group3,巨荣辉,jrhgreat,Lab1-2,15,75
 group3,巨荣辉,jrhgreat,Lab2-1,2,90
@@ -168,26 +245,81 @@ group4,杜诗灏，LoveCD,Lab4-1,1,100
 group4,杜诗灏，LoveCD,Lab4-2,1,100
 group4,杜诗灏，LoveCD,Lab4-3,2,95
 group4,杜诗灏，LoveCD,Lab4-4,1,100
-xiongfeng,xiongbanban,1,80
-xiongfeng,xiongbanban,2,80
-xiongfeng,xiongbanban,3,80
-xiongfeng,xiongbanban,4,70
-xiongfeng,xiongbanban,5,85
-cuihaoran,cuihaoran,1,80
-cuihaoran,cuihaoran,2,80
-cuihaoran,cuihaoran,3,80
-cuihaoran,cuihaoran,4,70
-cuihaoran,cuihaoran,5,85
-chengtianchang,CTCbaxia,1,85
-chengtianchang,CTCbaxia,2,85
-chengtianchang,CTCbaxia,3,80
-chengtianchang,CTCbaxia,4,85
-chengtianchang,CTCbaxia,5,85
-chenchen,KKNWtinacc,1,80
-chenchen,KKNWtinacc,2,85
-chenchen,KKNWtinacc,3,85
-chenchen,KKNWtinacc,4,80
-chenchen,KKNWtinacc,5,85
+group5,乔阳,yang1young,Lab1-1,1,100
+group5,乔阳,yang1young,Lab1-2,6,95
+group5,乔阳,yang1young,Lab2-1,2,90
+group5,乔阳,yang1young,Lab2-2,2,90
+group5,乔阳,yang1young,Lab2-3,2,90
+group5,乔阳,yang1young,Lab2-4,3,85
+group5,乔阳,yang1young,Lab2-5,2,90
+group5,乔阳,yang1young,Lab3-1,3,85
+group5,乔阳,yang1young,Lab3-2,1,100
+group5,乔阳,yang1young,Lab3-3,4,80
+group5,乔阳,yang1young,Lab3-4,3,85
+group5,乔阳,yang1young,Lab4-1,3,85
+group5,乔阳,yang1young,Lab4-2,5,79
+group5,乔阳,yang1young,Lab4-3,3,85
+group5,乔阳,yang1young,Lab4-4,5,79
+group5,熊峰,xiongbanban,Lab1-1,22,70
+group5,熊峰,xiongbanban,Lab1-2,6,95
+group5,熊峰,xiongbanban,Lab2-1,2,90
+group5,熊峰,xiongbanban,Lab2-2,2,90
+group5,熊峰,xiongbanban,Lab2-3,2,90
+group5,熊峰,xiongbanban,Lab2-4,3,85
+group5,熊峰,xiongbanban,Lab2-5,2,90
+group5,熊峰,xiongbanban,Lab3-1,3,85
+group5,熊峰,xiongbanban,Lab3-2,1,100
+group5,熊峰,xiongbanban,Lab3-3,4,80
+group5,熊峰,xiongbanban,Lab3-4,3,85
+group5,熊峰,xiongbanban,Lab4-1,3,85
+group5,熊峰,xiongbanban,Lab4-2,5,79
+group5,熊峰,xiongbanban,Lab4-3,3,85
+group5,熊峰,xiongbanban,Lab4-4,5,79
+group5,崔浩然,cuihaoran,Lab1-1,22,70
+group5,崔浩然,cuihaoran,Lab1-2,6,95
+group5,崔浩然,cuihaoran,Lab2-1,2,90
+group5,崔浩然,cuihaoran,Lab2-2,2,90
+group5,崔浩然,cuihaoran,Lab2-3,2,90
+group5,崔浩然,cuihaoran,Lab2-4,3,85
+group5,崔浩然,cuihaoran,Lab2-5,2,90
+group5,崔浩然,cuihaoran,Lab3-1,3,85
+group5,崔浩然,cuihaoran,Lab3-2,1,100
+group5,崔浩然,cuihaoran,Lab3-3,4,80
+group5,崔浩然,cuihaoran,Lab3-4,3,85
+group5,崔浩然,cuihaoran,Lab4-1,3,85
+group5,崔浩然,cuihaoran,Lab4-2,5,79
+group5,崔浩然,cuihaoran,Lab4-3,3,85
+group5,崔浩然,cuihaoran,Lab4-4,5,79
+group5,陈晨,KKNWtinacc,Lab1-1,22,70
+group5,陈晨,KKNWtinacc,Lab1-2,6,95
+group5,陈晨,KKNWtinacc,Lab2-1,2,90
+group5,陈晨,KKNWtinacc,Lab2-2,2,90
+group5,陈晨,KKNWtinacc,Lab2-3,2,90
+group5,陈晨,KKNWtinacc,Lab2-4,3,85
+group5,陈晨,KKNWtinacc,Lab2-5,2,90
+group5,陈晨,KKNWtinacc,Lab3-1,3,85
+group5,陈晨,KKNWtinacc,Lab3-2,1,100
+group5,陈晨,KKNWtinacc,Lab3-3,4,80
+group5,陈晨,KKNWtinacc,Lab3-4,3,85
+group5,陈晨,KKNWtinacc,Lab4-1,3,85
+group5,陈晨,KKNWtinacc,Lab4-2,5,79
+group5,陈晨,KKNWtinacc,Lab4-3,3,85
+group5,陈晨,KKNWtinacc,Lab4-4,5,79
+group5,程天畅,CTCbaxia,Lab1-1,22,70
+group5,程天畅,CTCbaxia,Lab1-2,6,95
+group5,程天畅,CTCbaxia,Lab2-1,2,90
+group5,程天畅,CTCbaxia,Lab2-2,2,90
+group5,程天畅,CTCbaxia,Lab2-3,2,90
+group5,程天畅,CTCbaxia,Lab2-4,3,85
+group5,程天畅,CTCbaxia,Lab2-5,2,90
+group5,程天畅,CTCbaxia,Lab3-1,3,85
+group5,程天畅,CTCbaxia,Lab3-2,1,100
+group5,程天畅,CTCbaxia,Lab3-3,4,80
+group5,程天畅,CTCbaxia,Lab3-4,3,85
+group5,程天畅,CTCbaxia,Lab4-1,3,85
+group5,程天畅,CTCbaxia,Lab4-2,5,79
+group5,程天畅,CTCbaxia,Lab4-3,3,85
+group5,程天畅,CTCbaxia,Lab4-4,5,79
 Xufengli, slowsharp, 6, 90
 Liugaoyang, hust65536, 6, 90
 HuangGuangZhou, husthgz, 6, 90
