@@ -89,7 +89,21 @@ printf("group1,辛宇,FCSCanal,lab4-3,4,90\n");
 printf("group1,辛宇,FCSCanal,lab4-4,2,95\n");
 printf("group1,辛宇,FCSCanal,lab6-1,1,100\n");
 
-
+printf("group1,王浴昊,wyhgithub,lab1-1,2,95\n");
+printf("group1,王浴昊,wyhgithub,lab1-2,12,85\n");
+printf("group1,王浴昊,wyhgithub,lab2-1,1,100\n");
+printf("group1,王浴昊,wyhgithub,lab2-2,1,100\n");
+printf("group1,王浴昊,wyhgithub,lab2-3,1,100\n");
+printf("group1,王浴昊,wyhgithub,lab2-4,1,100\n");
+printf("group1,王浴昊,wyhgithub,lab3-1,1,100\n");
+printf("group1,王浴昊,wyhgithub,lab3-2,3,90\n");
+printf("group1,王浴昊,wyhgithub,lab3-3,1,100\n");
+printf("group1,王浴昊,wyhgithub,lab3-4,1,100\n");
+printf("group1,王浴昊,wyhgithub,lab3-5,1,100\n");
+printf("group1,王浴昊,wyhgithub,lab4-1,4,90\n");
+printf("group1,王浴昊,wyhgithub,lab4-2,4,90\n");
+printf("group1,王浴昊,wyhgithub,lab4-3,4,90\n");
+printf("group1,王浴昊,wyhgithub,lab4-4,2,95\n");
 printf("group1,王浴昊,wyhgithub,lab6-1,1,100\n");
 
 return 0;
