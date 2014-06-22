@@ -69,6 +69,22 @@ printf("group3,许嘉慎,peterxujia,Lab4-1,3,95\n");
 printf("group3,许嘉慎,peterxujia,Lab4-2,3,90\n");
 printf("group3,许嘉慎,peterxujia,Lab4-4,2,95\n");
 
+printf("group3,黄小瑤,sigsawa,Lab1-1,6,90\n");
+printf("group3,黄小瑤,sigsawa,Lab1-2,4,80\n");
+printf("group3,黄小瑤,sigsawa,Lab2-1,2,80\n");
+printf("group3,黄小瑤,sigsawa,Lab2-2,1,90\n");
+printf("group3,黄小瑤,sigsawa,Lab2-3,3,90\n");
+printf("group3,黄小瑤,sigsawa,Lab2-4,3,80\n");
+printf("group3,黄小瑤,sigsawa,Lab2-5,1,80\n");
+printf("group3,黄小瑤,sigsawa,Lab3-1,2,80\n");
+printf("group3,黄小瑤,sigsawa,Lab3-2,2,90\n");
+printf("group3,黄小瑤,sigsawa,Lab3-3,3,90\n");
+printf("group3,黄小瑤,sigsawa,Lab3-4,3,90\n");
+printf("group3,黄小瑤,sigsawa,Lab3-5,2,90\n");
+printf("group3,黄小瑤,sigsawa,Lab4-1,3,80\n");
+printf("group3,黄小瑤,sigsawa,Lab4-2,3,85\n");
+printf("group3,黄小瑤,sigsawa,Lab4-4,2,95\n");
+printf("group3,黄小瑤,sigsawa,Lab6-1,2,62\n");
 
 return 0;
 }
