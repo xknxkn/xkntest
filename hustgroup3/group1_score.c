@@ -18,6 +18,7 @@ printf("group3,巨荣辉,jrhgreat,Lab4-1,3,85\n");
 printf("group3,巨荣辉,jrhgreat,Lab4-2,3,85\n");
 printf("group3,巨荣辉,jrhgreat,Lab4-3,1,100\n");
 printf("group3,巨荣辉,jrhgreat,Lab4-4,2,90\n");
+printf("group3,巨荣辉,jrhgreat,Lab6-1,1,97\n");
 
 printf("group3,冯驰茗,steveming,Lab1-1,20,70\n");
 printf("group3,冯驰茗,steveming,Lab1-2,20,70\n");
