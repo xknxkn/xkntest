@@ -35,6 +35,8 @@ printf("group3,冯驰茗,steveming,Lab4-1,3,85\n");
 printf("group3,冯驰茗,steveming,Lab4-2,3,85\n");
 printf("group3,冯驰茗,steveming,Lab4-3,1,100\n");
 printf("group3,冯驰茗,steveming,Lab4-4,2,90\n");
+printf("group3,冯驰茗,steveming,Lab6-1, ,89\n");
+
 
 printf("group3,欧阳熹,Jimmy-ouyang,Lab1-1,6,90\n");
 printf("group3,欧阳熹,Jimmy-ouyang,Lab1-2,4,90\n");
