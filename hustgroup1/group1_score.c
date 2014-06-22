@@ -5,17 +5,17 @@ main()
 
 //printf("This is for HUST ESD course 2014 score\n"); 
 
-printf("houyuhan,hyieeh,helloworld,9,80\n");
-printf("houyuhan,hyieeh,coredump,8,80\n");
-printf("houyuhan,hyieeh,lab2-4,1,100\n");
-printf("houyuhan,hyieeh,lab3-1,1,100\n");
-printf("houyuhan,hyieeh,lab3-2,3,90\n");
-printf("houyuhan,hyieeh,lab3-3,1,100\n");
-printf("houyuhan,hyieeh,lab3-4,1,100\n");
-printf("houyuhan,hyieeh,lab3-5,1,100\n");
-printf("houyuhan,hyieeh,lab4-2,4,80\n");
-printf("houyuhan,hyieeh,lab4-3,4,100\n");
-printf("houyuhan,hyieeh,lab4-4,2,95\n");
+printf("group1,侯雨涵,hyieeh,helloworld,9,80\n");
+printf("group1,侯雨涵,hyieeh,coredump,8,80\n");
+printf("group1,侯雨涵,hyieeh,lab2-4,1,100\n");
+printf("group1,侯雨涵,hyieeh,lab3-1,1,100\n");
+printf("group1,侯雨涵,hyieeh,lab3-2,3,90\n");
+printf("group1,侯雨涵,hyieeh,lab3-3,1,100\n");
+printf("group1,侯雨涵,hyieeh,lab3-4,1,100\n");
+printf("group1,侯雨涵,hyieeh,lab3-5,1,100\n");
+printf("group1,侯雨涵,hyieeh,lab4-2,4,80\n");
+printf("group1,侯雨涵,hyieeh,lab4-3,4,100\n");
+printf("group1,侯雨涵,hyieeh,lab4-4,2,95\n");
 
 printf("group1,林苗苗,linmiaomiao,helloworld,5,85\n");
 printf("group1,林苗苗,linmiaomiao,coredump,8,80\n");
