@@ -24,6 +24,8 @@ printf("group6,徐丰力,slowsharp,Lab4-1,2,90\n");
 printf("group6,徐丰力,slowsharp,Lab4-2,2,90\n");
 printf("group6,徐丰力,slowsharp,Lab4-3,3,90\n");
 printf("group6,徐丰力,slowsharp,Lab4-4,3,90\n");
+printf("group6,徐丰力,slowsharp,Lab6-1,85\n");
+
 printf("group6,刘高扬,hust65536,Lab1-1,5,80\n");
 printf("group6,刘高扬,hust65536,Lab1-2,5,75\n");
 printf("group6,刘高扬,hust65536,Lab2-1,3,90\n");
