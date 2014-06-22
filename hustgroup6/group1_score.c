@@ -24,6 +24,9 @@ printf("group6,徐丰力,slowsharp,Lab4-1,2,90\n");
 printf("group6,徐丰力,slowsharp,Lab4-2,2,90\n");
 printf("group6,徐丰力,slowsharp,Lab4-3,3,90\n");
 printf("group6,徐丰力,slowsharp,Lab4-4,3,90\n");
+printf("group6,徐丰力,slowsharp,Lab6-1,85\n");
+printf("group6,徐丰力,slowsharp,Lab6-2,95\n");
+
 printf("group6,刘高扬,hust65536,Lab1-1,5,80\n");
 printf("group6,刘高扬,hust65536,Lab1-2,5,75\n");
 printf("group6,刘高扬,hust65536,Lab2-1,3,90\n");
@@ -40,6 +43,7 @@ printf("group6,刘高扬,hust65536,Lab4-2,2,90\n");
 printf("group6,刘高扬,hust65536,Lab4-3,3,90\n");
 printf("group6,刘高扬,hust65536,Lab4-4,3,90\n");
 printf("group6,刘高扬,hust65536,Lab6-1,82\n");
+printf("group6,刘高扬,hust65536,Lab6-2,95\n");
 
 
 printf("group6,黄广舟,husthgz,Lab1-1,5,80\n");
@@ -57,6 +61,9 @@ printf("group6,黄广舟,husthgz,Lab4-1,2,90\n");
 printf("group6,黄广舟,husthgz,Lab4-2,2,90\n");
 printf("group6,黄广舟,husthgz,Lab4-3,3,90\n");
 printf("group6,黄广舟,husthgz,Lab4-4,3,90\n");
+printf("group6,黄广舟,husthgz,Lab6-1,94\n");
+printf("group6,黄广舟,husthgz,Lab6-2,95\n");
+
 printf("group6,胡廷舟,canoepayne,Lab1-1,5,80\n");
 printf("group6,胡廷舟,canoepayne,Lab1-2,5,75\n");
 printf("group6,胡廷舟,canoepayne,Lab2-1,3,90\n");
@@ -72,7 +79,8 @@ printf("group6,胡廷舟,canoepayne,Lab4-1,2,90\n");
 printf("group6,胡廷舟,canoepayne,Lab4-2,2,90\n");
 printf("group6,胡廷舟,canoepayne,Lab4-3,3,90\n");
 printf("group6,胡廷舟,canoepayne,Lab4-4,3,90\n");
-printf("group6,胡廷舟,canoepayne,Lab6-1,0,79\n");
+printf("group6,胡廷舟,canoepayne,Lab6-1,79\n");
+printf("group6,胡廷舟,canoepayne,Lab6-2,95\n");
 return 0;
 
 }
