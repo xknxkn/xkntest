@@ -86,5 +86,23 @@ printf("group3,黄小瑤,sigsawa,Lab4-2,3,85\n");
 printf("group3,黄小瑤,sigsawa,Lab4-4,2,95\n");
 printf("group3,黄小瑤,sigsawa,Lab6-1,2,62\n");
 
+printf("group3,刘祖睿,Kaleidoscopes,Lab1-1,6,85\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab1-2,4,80\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab2-1,2,90\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab2-2,1,80\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab2-3,3,85\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab2-4,3,85\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab2-5,1,90\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab3-1,2,85\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab3-2,2,85\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab3-3,3,80\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab3-4,3,85\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab3-5,2,86\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab4-1,3,85\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab4-2,3,85\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab4-3,1,90\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab4-4,2,90\n");
+printf("group3,刘祖睿,Kaleidoscopes,Lab6-1,2,64\n");
+
 return 0;
 }
