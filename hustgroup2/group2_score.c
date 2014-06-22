@@ -17,6 +17,7 @@ printf("group2,曹荣,freewind, Lab4-1,6,70\n");
 printf("group2,曹荣,freewind, Lab4-2,6,70\n");
 printf("group2,曹荣,freewind, Lab4-3,6,70\n");
 printf("group2,曹荣,freewind, Lab4-4,6,70\n");
+printf("group2,曹荣,freewind, lab6-1，86");
 
 
 printf("group2,歩遥,byforbest, Lab1-1,11,80\n");
@@ -33,7 +34,7 @@ printf("group2,歩遥,byforbest, Lab4-1,6,70\n");
 printf("group2,歩遥,byforbest, Lab4-2,6,70\n");
 printf("group2,歩遥,byforbest,Lab4-3,6,70\n");
 printf("group2,歩遥,byforbest, Lab4-4,6,70\n");
-
+printf("group2,歩遥,byforbest, lab6-1，85\n");
 
 
 printf("group2,孙路遥,LuyaoSun, Lab1-1,14,80\n");
@@ -50,6 +51,7 @@ printf("group2,孙路遥,LuyaoSun, Lab4-1,6,70\n");
 printf("group2,孙路遥,LuyaoSun, Lab4-2,6,70\n");
 printf("group2,孙路遥,LuyaoSun,Lab4-3,6,70\n");
 printf("group2,孙路遥,LuyaoSun, Lab4-4,6,70\n");
+printf("group2,孙路遥,LuyaoSun, lab6-1，88\n");
 
 printf("group2,叶源清,yuanqingyeah, Lab1-1,5,95\n");
 printf("group2,叶源清,yuanqingyeah, Lab1-2,9,90\n");
@@ -65,6 +67,7 @@ printf("group2,叶源清,yuanqingyeah, Lab4-1,6,70\n");
 printf("group2,叶源清,yuanqingyeah, Lab4-2,6,70\n");
 printf("group2,叶源清,yuanqingyeah,Lab4-3,6,70\n");
 printf("group2,叶源清,yuanqingyeah, Lab4-4,6,70\n");
+printf("group2,叶源清,yuanqingyeah, lab6-1，93\n");
 
 printf("group2,谭栋材,tandongcai, Lab1-1,7,90\n");
 printf("group2,谭栋材,tandongcai, Lab1-2,18,70\n");
@@ -80,21 +83,23 @@ printf("group2,谭栋材,tandongcai, Lab4-1,6,70\n");
 printf("group2,谭栋材,tandongcai, Lab4-2,6,70\n");
 printf("group2,谭栋材,tandongcai,Lab4-3,6,70\n");
 printf("group2,谭栋材,tandongcai, Lab4-4,6,70\n");
+printf("group2,谭栋材,tandongcai, lab6-1，67\n");
 
-printf("group2,叶凡,icyyyy, Lab1-1,19,70\n");
-printf("group2,叶凡,icyyyy, Lab1-2,16,75\n");
-printf("group2,叶凡,icyyyy, Lab2-1,1,100\n");
-printf("group2,叶凡,icyyyy, Lab2-2,2,90\n");
-printf("group2,叶凡,icyyyy, Lab2-3,3,85\n");
-printf("group2,叶凡,icyyyy, Lab2-4,3,85\n");
-printf("group2,叶凡,icyyyy, Lab3-1,1,100\n");
-printf("group2,叶凡,icyyyy, Lab3-2,3,85\n");
-printf("group2,叶凡,icyyyy, Lab3-3,2,90\n");
-printf("group2,叶凡,icyyyy, Lab3-4,4,80\n");
-printf("group2,叶凡,icyyyy, Lab4-1,6,70\n");
-printf("group2,叶凡,icyyyy, Lab4-2,6,70\n");
-printf("group2,叶凡,icyyyy,Lab4-3,6,70\n");
-printf("group2,叶凡,icyyyy, Lab4-4,6,70\n");
+printf("group2,吴凡,icyyyy, Lab1-1,19,70\n");
+printf("group2,吴凡,icyyyy, Lab1-2,16,75\n");
+printf("group2,吴凡,icyyyy, Lab2-1,1,100\n");
+printf("group2,吴凡,icyyyy, Lab2-2,2,90\n");
+printf("group2,吴凡,icyyyy, Lab2-3,3,85\n");
+printf("group2,吴凡,icyyyy, Lab2-4,3,85\n");
+printf("group2,吴凡,icyyyy, Lab3-1,1,100\n");
+printf("group2,吴凡,icyyyy, Lab3-2,3,85\n");
+printf("group2,吴凡,icyyyy, Lab3-3,2,90\n");
+printf("group2,吴凡,icyyyy, Lab3-4,4,80\n");
+printf("group2,吴凡,icyyyy, Lab4-1,6,70\n");
+printf("group2,吴凡,icyyyy, Lab4-2,6,70\n");
+printf("group2,吴凡,icyyyy,Lab4-3,6,70\n");
+printf("group2,吴凡,icyyyy, Lab4-4,6,70\n");
+printf("group2,吴凡,icyyyy, lab6-1，48\n");
 
 
 return 0;
