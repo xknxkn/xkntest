@@ -74,6 +74,7 @@ printf("group3,许嘉慎,peterxujia,Lab4-2,3,85\n");
 printf("group3,许嘉慎,peterxujia,Lab4-3,1,100\n");
 printf("group3,许嘉慎,peterxujia,Lab4-4,2,90\n");
 printf("group3,许嘉慎,peterxujia,Lab6-1,2,76\n");
+printf("group3,许嘉慎,peterxujia,Lab6-2,1,100\n");
 
 printf("group3,黄小瑤,sigsawa,Lab1-1,18,90\n");
 printf("group3,黄小瑤,sigsawa,Lab1-2,18,80\n");
