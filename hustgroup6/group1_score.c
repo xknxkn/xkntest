@@ -72,6 +72,7 @@ printf("group6,胡廷舟,canoepayne,Lab4-1,2,90\n");
 printf("group6,胡廷舟,canoepayne,Lab4-2,2,90\n");
 printf("group6,胡廷舟,canoepayne,Lab4-3,3,90\n");
 printf("group6,胡廷舟,canoepayne,Lab4-4,3,90\n");
+printf("group6,胡廷舟,canoepayne,Lab6-1,0,79\n");
 return 0;
 
 }
