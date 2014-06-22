@@ -57,6 +57,8 @@ printf("group6,黄广舟,husthgz,Lab4-1,2,90\n");
 printf("group6,黄广舟,husthgz,Lab4-2,2,90\n");
 printf("group6,黄广舟,husthgz,Lab4-3,3,90\n");
 printf("group6,黄广舟,husthgz,Lab4-4,3,90\n");
+printf("group6,黄广舟,husthgz,Lab6-1,94\n");
+
 printf("group6,胡廷舟,canoepayne,Lab1-1,5,80\n");
 printf("group6,胡廷舟,canoepayne,Lab1-2,5,75\n");
 printf("group6,胡廷舟,canoepayne,Lab2-1,3,90\n");
