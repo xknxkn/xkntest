@@ -47,6 +47,24 @@ printf("group1,卢泽农,KardLu,lab4-3,4,90\n");
 printf("group1,卢泽农,KardLu,lab4-4,2,95\n");
 
 
+//shmilyhh
+printf("group1,许昊,shmilyhh,lab1-1,4,90\n");
+printf("group1,许昊,shmilyhh,lab1-2,2,95\n");
+printf("group1,许昊,shmilyhh,lab2-1,1,100\n");
+printf("group1,许昊,shmilyhh,lab2-2,1,100\n");
+printf("group1,许昊,shmilyhh,lab2-3,1,100\n");
+printf("group1,许昊,shmilyhh,lab2-4,1,100\n");
+printf("group1,许昊,shmilyhh,lab3-1,1,100\n");
+printf("group1,许昊,shmilyhh,lab3-2,3,90\n");
+printf("group1,许昊,shmilyhh,lab3-3,1,100\n");
+printf("group1,许昊,shmilyhh,lab3-4,1,100\n");
+printf("group1,许昊,shmilyhh,lab3-5,1,100\n");
+printf("group1,许昊,shmilyhh,lab4-1,4,90\n");
+printf("group1,许昊,shmilyhh,lab4-2,4,90\n");
+printf("group1,许昊,shmilyhh,lab4-3,4,90\n");
+printf("group1,许昊,shmilyhh,lab4-4,2,95\n");
+
+
 return 0;
 
 }
