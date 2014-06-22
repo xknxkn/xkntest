@@ -205,6 +205,7 @@ group3,巨荣辉,jrhgreat,Lab4-2,3,85
 group3,巨荣辉,jrhgreat,Lab4-3,1,100
 group3,巨荣辉,jrhgreat,Lab4-4,2,90
 group3,巨荣辉,jrhgreat,Lab6-1,1,97
+group3,巨荣辉,jrhgreat,Lab6-2,1,100
 group3,冯驰茗,steveming,Lab1-1,20,70
 group3,冯驰茗,steveming,Lab1-2,20,70
 group3,冯驰茗,steveming,Lab2-1,2,90
@@ -222,6 +223,7 @@ group3,冯驰茗,steveming,Lab4-2,3,85
 group3,冯驰茗,steveming,Lab4-3,1,100
 group3,冯驰茗,steveming,Lab4-4,2,90
 group3,冯驰茗,steveming,Lab6-1, ,89
+group3,冯驰茗,steveming,Lab6-2,1,100
 group3,欧阳熹,Jimmy-ouyang,Lab1-1,6,90
 group3,欧阳熹,Jimmy-ouyang,Lab1-2,4,90
 group3,欧阳熹,Jimmy-ouyang,Lab2-1,2,90
@@ -239,6 +241,7 @@ group3,欧阳熹,Jimmy-ouyang,Lab4-2,3,85
 group3,欧阳熹,Jimmy-ouyang,Lab4-3,1,100
 group3,欧阳熹,Jimmy-ouyang,Lab4-4,2,90
 group3,欧阳熹,Jimmy-ouyang,Lab6-1,0,68
+group3,欧阳熹,Jimmy-ouyang,Lab6-2,1,100
 group3,许嘉慎,peterxujia,Lab1-1,19,90
 group3,许嘉慎,peterxujia,Lab1-2,19,90
 group3,许嘉慎,peterxujia,Lab2-1,2,90
@@ -274,6 +277,7 @@ group3,黄小瑤,sigsawa,Lab4-2,3,85
 group3,黄小瑤,sigsawa,Lab4-3,1,100
 group3,黄小瑤,sigsawa,Lab4-4,2,90
 group3,黄小瑤,sigsawa,Lab6-1,2,62
+group3,黄小瑤,sigsawa,Lab6-2,1,100
 group3,刘祖睿,Kaleidoscopes,Lab1-1,22,85
 group3,刘祖睿,Kaleidoscopes,Lab1-2,22,80
 group3,刘祖睿,Kaleidoscopes,Lab2-1,2,90
@@ -291,6 +295,7 @@ group3,刘祖睿,Kaleidoscopes,Lab4-2,3,85
 group3,刘祖睿,Kaleidoscopes,Lab4-3,1,100
 group3,刘祖睿,Kaleidoscopes,Lab4-4,2,90
 group3,刘祖睿,Kaleidoscopes,Lab6-1,2,64
+group3,刘祖睿,Kaleidoscopes,Lab6-2,1,100
 group4,吕鹏原,lvpyuan,Lab1-1,11,80
 group4,吕鹏原,lvpyuan,Lab1-2,11,80
 group4,吕鹏原,lvpyuan,Lab2-1,1,100
