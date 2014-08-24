@@ -1,12 +1,12 @@
-all: group1_score
+all: group3_score
 	
 
-group1_score:group1_score.c
-	gcc -o group1_score group1_score.c
+group3_score:group3_score.c
+	gcc -o group3_score group3_score.c
 
 test:
-	./group1_score >> ../score_record.txt
+	./group3_score >> ../score_record.txt
 
 clean:
-	rm -f group1_score *.o core 
+	rm -f group3_score *.o core 
 
