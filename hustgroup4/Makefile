@@ -1,9 +1,9 @@
-group1_score:group1_score.c
-	gcc -o group1_score group1_score.c
+group4_score:group4_score.c
+	gcc -o group4_score group4_score.c
 
 test:
-	./group1_score >> ../score_record.txt
+	./group4_score >> ../score_record.txt
 
 clean:
-	rm -f group1_score *.o core *~ 
+	rm -f group4_score *.o core *~ 
 
