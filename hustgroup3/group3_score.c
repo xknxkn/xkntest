@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <stdio.h> 
 
-main()
+int main()
 {
 /* groupid,studetnid,name,githubname,exam,lab,participation,project */
 
@@ -13,6 +13,8 @@ main()
    printf("3,12353229,许伟健,xuweijian,73,80,95,85\n"); 
    printf("3,12330142,黄志伟,huangzhw6,81,80,85,85\n"); 
    printf("3,12353241,姚灿武,NewHooker,89,80,85,85\n");
+
+   printf("3,13354236,卢奕安,kia95710,sec.1:85\n");
 
 return 0;
 }
