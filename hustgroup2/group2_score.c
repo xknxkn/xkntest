@@ -1,8 +1,12 @@
 #include <stdio.h>
 
-main()
+int main()
 {
 /* groupid,studetnid,name,githubname,exam,lab,participation,project */
+
+/*13 Grade Here*/
+printf ("zengliyi, helloworldzly,Section 1,100\n"); //right??
+
 
 printf("2,12353121,Zhangwei Lin,lynnjadecn,89,95,75,100\n");
 printf("2,12353115,Yuhao Liang,LiangYuhao,90,80,75,100\n");

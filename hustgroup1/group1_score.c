@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
+int main()
 {
 /* groupid,studetnid,name,githubname,exam,lab,participation,project */
 
