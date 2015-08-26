@@ -1,14 +1,14 @@
-ï»¿#include <stdio.h>
+#include <stdio.h>
 
 int main()
 {
 /* groupid,studetnid,name,githubname,exam,lab,participation,project */
 
-   printf("3,13354173,æå½¦è‰¯,sysu-liyanliang,100,100,100,100\n"); 
-   printf("3,13354286,é‚±å®å®‡,CecilQiu,100,100,100,100\n");
-   printf("3,13354201,æ—å¥‡å³°,smielinqifeng,100,100,100,100\n");
-   printf("3,13354365,è°¢å‹ƒ,xiebooooo123,100,100,100,100\n");
-   printf("3,13354118,é»„æ„‰,huangyu16,100,100,100,100\n");
-
+   printf("3,13354173,ÀîÑåÁ¼,sysu-liyanliang,100,100,100,100\n"); 
+   printf("3,13354286,ÇñºêÓî,CecilQiu,100,100,100,100\n");
+   printf("3,13354201,ÁÖÆæ·å,smielinqifeng,100,100,100,100\n");
+   printf("3,13354365,Ğ»²ª,xiebooooo123,100,100,100,100\n");
+   printf("3,13354118,»ÆÓä,huangyu16,100,100,100,100\n");
+   printf("3,13354408,Ò¶ÉÜĞù,yeshaoxuan,100,100,100,100\n");
 return 0;
 }
