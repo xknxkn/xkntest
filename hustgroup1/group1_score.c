@@ -15,5 +15,6 @@ printf("13354314, Tanhaoxian, lovtam, 100\n");
 printf("13354325, Wangjianzheng, scp096 , 100\n");
 printf("13354093, Hezhongkang, hezhongkang , 100\n");
 printf("13354170, Lixinfeng, lixinfeng13, 100\n");
+printf("12353036, DaiKun, gonelikefly, 100\n");
 return 0;
 }
