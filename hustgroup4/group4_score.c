@@ -10,5 +10,6 @@ int main()
 	printf("4,13354068,冯张弛,williamfzc,xx,xx,xx,xx\n");
 	printf("4,13354237,卢宇沣,hallelujah237,hehe\n");
 	printf("4,13354418,袁森淼,YuanSenmiao,100, 94, 90, 100\n");
+	printf("4,1335395,Yang_XiaoJun,0000000,95, 94, 90, 90\n");
 	return 0;
 }
