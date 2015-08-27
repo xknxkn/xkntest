@@ -16,5 +16,6 @@ int main()
 	printf("4,13354247,luojintao,Luojt3,100,100,100,100 \n");
 	printf("4,12353054,GuoLingfeng,GuoLingfeng,100,100,100,100 \n");
 	printf("4,13354153,liguirong,LiGuiRong,100,100,100,100 \n");
+	printf("4,13354176,lizhufeng,LiZhuFeng,100,100,100,100 \n");
 	return 0;
 }
