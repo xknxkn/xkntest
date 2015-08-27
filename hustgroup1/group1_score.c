@@ -16,6 +16,6 @@ printf("1,12353079,Wenkai Huang,Instant7,91,90,100,95\n");
 printf("1,12353078,Shaoshu Huang,moonblamed,92,85,90,95\n");
 printf("1,14213824,Weihan Ren,PaulWeihan,93,100,90,95\n");
 printf("1,14213824,chenhang,aachenhang,90,90,95,100\n");
-
+printf("1,12353036,Kun Dai,gonelikefly,100,100,100,100\n");
 return 0;
 }
