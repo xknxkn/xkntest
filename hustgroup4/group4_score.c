@@ -9,5 +9,6 @@ int main()
 	printf("4,13354016,Chen Hong,logicchan,xx,xx,xx,xx\n");
 	printf("4,13354068,冯张弛,williamfzc,xx,xx,xx,xx\n");
 	printf("4,13354237,卢宇沣,hallelujah237,hehe\n");
+	printf("4,13354418,袁森淼,YuanSenmiao,100, 94, 90, 100\n");
 	return 0;
 }
