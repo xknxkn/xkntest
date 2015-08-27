@@ -7,5 +7,8 @@ int main()
 ///printf("1,12330xxx,Kevin Xie,xknxknqq,78,90,95,100\n");
 printf("13354460,Zhaoyue,xiwangzy,100\n");
 printf("13354212, Liujianbo, Bobbyliujb, 100\n");
+printf("13354291, Raochenyang, raochenyang, 100\n");
+printf("13354088, Haoshiwei, haoshw, 100\n");
+
 return 0;
 }
