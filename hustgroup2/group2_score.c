@@ -1,19 +1,19 @@
 #include <stdio.h>
 
-main()
+int main()
 {
 /* groupid,studetnid,name,githubname,exam,lab,participation,project */
-
-printf("2,12353121,Zhangwei Lin,lynnjadecn,89,95,75,100\n");
-printf("2,12353115,Yuhao Liang,LiangYuhao,90,80,75,100\n");
-printf("2,12353117,Kaichun Lin,lkcys,95,85,75,100\n");
-printf("2,12353142,Huaitian Lu,lutiantian,97,80,75,100\n");
-printf("2,12353246,Shuang Ye,shuangye114,95,95,75,100\n");
-printf("2,12353247,Xiqian Yi,Elvira-yxq,94,80,75,100\n");
-printf("2,12353167,Dan Qiao,FairyLord,75,80,75,100\n");
-printf("2,12353166,Xueqi Qian,HeyAmber,79,80,75,100\n");
-printf("2,12353156,Shiyue Nie,nnnsyyy,82,80,75,100\n");
-printf("2,12353115,Xiaojie Zhou,szxjzhou,91,100,95,100\n");
-
+/*13 Grade Here*/
+printf("2, 13354419, zengliyi, helloworldzly, 100\n");
+printf("2, 13354411, Yinyuting Yin,yyyt1994, 100\n");
+printf("2, 13354225, liuyiping, lyptiffany, 100\n");
+printf("2, 13354376, xuyuchen, XuYuchen, 100\n");
+printf("2, 13354424, Zhaiqian, ZhaiQian, 100\n");
+printf("2, 12353039, duchengqian, sysu-yunz, 100\n");
+printf("2, 13354481, zhouxiaomei, zhouxm6, 100\n");
+printf("2, 13354214, liujun, Liujun0325, 100\n");
+printf("2, 13354077, Gongjianfei, Jreffery, 100\n");
+printf("2, 13354130, Jiangxiaochen, Jiangxiaochen, 100\n");
+printf("2, 13354229, Liuzhaorong, Liuzhaor, 100\n");
 return 0;
 }

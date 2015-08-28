@@ -4,17 +4,16 @@ int main()
 {
 /* groupid,studetnid,name,githubname,exam,lab,participation,project */
 
-   printf("3,12353033,é™ˆæœˆäº‘,Yueyun,90,80,85,85\n"); 
-   printf("3,12353159,æ½˜å¥•å¦‚,vivian94,92,80,90,85\n"); 
-   printf("3,12353030,é™ˆå¥•èŠ¬,chenyifen,78,80,85,85\n"); 
-   printf("3,12353027,é™ˆæ›¦,luoji24,87,80,85,85\n"); 
-   printf("3,12353218,è°¢å½¤ç’‡,Samantha,89,85,75,85\n");
-   printf("3,12353242,å§šä¼Ÿå’Œ,yaowh,84,80,100,85\n"); 
-   printf("3,12353229,è®¸ä¼Ÿå¥,xuweijian,73,80,95,85\n"); 
-   printf("3,12330142,é»„å¿—ä¼Ÿ,huangzhw6,81,80,85,85\n"); 
-   printf("3,12353241,å§šç¿æ­¦,NewHooker,89,80,85,85\n");
 
-   printf("3,13354236,å¢å¥•å®‰,kia95710,sec.1:85\n");
+
+
+   printf("3,13354173,ÀîÑåÁ¼,sysu-liyanliang,100,100,100,100\n"); 
+   printf("3,13354286,ÇñºêÓî,CecilQiu,100,100,100,100\n");
+   printf("3,13354201,ÁÖÆæ·å,smielinqifeng,100,100,100,100\n");
+   printf("3,13354365,Ğ»²ª,xiebooooo123,100,100,100,100\n");
+   printf("3,13354118,»ÆÓä,huangyu16,100,100,100,100\n");
+   printf("3,13354408,Ò¶ÉÜĞù,yeshaoxuan,100,100,100,100\n");
+   printf("3,13354236,lu yian,kia95710,100,100,100,100\n");
 
 return 0;
 }
