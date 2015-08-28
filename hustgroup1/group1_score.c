@@ -5,16 +5,16 @@ int main()
 /* groupid,studetnid,name,githubname,exam,lab,participation,project */
 
 ///printf("1,12330xxx,Kevin Xie,xknxknqq,78,90,95,100\n");
-printf("13354460,Zhaoyue,xiwangzy,100\n");
-printf("13354212, Liujianbo, Bobbyliujb, 100\n");
-printf("13354291, Raochenyang, raochenyang, 100\n");
-printf("13354088, Haoshiwei, haoshw, 100\n");
-printf("13354156, Lijianli, Lijianli512, 100\n");
-printf("13354136, Kexiaohong, kexhong, 100\n");
-printf("13354314, Tanhaoxian, lovtam, 100\n");
-printf("13354325, Wangjianzheng, scp096 , 100\n");
-printf("13354093, Hezhongkang, hezhongkang , 100\n");
-printf("13354170, Lixinfeng, lixinfeng13, 100\n");
-printf("12353036, DaiKun, gonelikefly, 100\n");
+printf("1,13354460,Zhaoyue,xiwangzy,90,90,100,95\n");
+printf("1,13354212, Liujianbo, Bobbyliujb, 86,100,100,95\n");
+printf("1,13354291, Raochenyang, raochenyang, 79,60,100,95\n");
+printf("1,13354088, Haoshiwei, haoshw, 85,90,100,95\n");
+printf("1,13354156, Lijianli, Lijianli512, 87,80,100,95\n");
+printf("1,13354136, Kexiaohong, kexhong, 69,100,100,95\n");
+printf("1,13354314, Tanhaoxian, lovtam, 85,100,100,95\n");
+printf("1,13354325, Wangjianzheng, scp096 , 83,100,100,95\n");
+printf("1,13354093, Hezhongkang, hezhongkang , 88,80,100,95\n");
+printf("1,13354170, Lixinfeng, lixinfeng13, 82,90,100,95\n");
+printf("1,12353036, DaiKun, gonelikefly, e,90,100,95\n");
 return 0;
 }
