@@ -9,7 +9,7 @@ int main()
 	printf("4,13354016,陈鸿,logicchan,76,80,100,90\n");
 	printf("4,13354068,冯张弛,williamfzc,66,90,100,90 \n");
 	printf("4,13354237,卢宇沣,hallelujah237,90\n");
-	printf("4,13354418,袁森淼,YuanSenmiao,xx, 90, xx, xx\n");
+	printf("4,13354418,袁森淼,YuanSenmiao,81, 90, 100, 90\n");
 	printf("4,1335395,杨小军,yangxj23,50, 90, 100, 90\n");
 	printf("4,13354477,周健飞,ZhouJianFei13354477,41,90,100,90\n");
 	printf("4,13354259,马宏有,Mahy12,74,100,100,90\n");
