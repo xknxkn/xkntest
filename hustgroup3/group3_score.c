@@ -16,6 +16,7 @@ int main()
    printf("3, 13354358, 伍瑞萍, WuRuiping, 87, 80, 100, 95\n");
    printf("3,13354143, 蓝倩清，lqq12345,67,80,100,95\n");
    printf("3,13354286,邱宏宇,CecilQiu,78,90,100,95\n");
+   printf("3,13354173,李彦良,sysu-liyanliang,81,90,100,95\n");
 
 return 0;
 }
