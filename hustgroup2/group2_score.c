@@ -4,6 +4,7 @@ int main()
 {
 /* groupid,studetnid,name,githubname,exam,lab,participation,project */
 /*13 Grade Here*/
+printf("2, 13354142, lankexin, lankexin, 84, 80, 100, 100\n");
 printf("2, 13354361, Xiaxinwei,Billyxia,68,90,100,100\n");
 printf("2, 13354419, zengliyi, helloworldzly, 89, 100, 100, 100\n");
 printf("2, 13354411, Yinyuting Yin,yyyt1994, 100\n");
