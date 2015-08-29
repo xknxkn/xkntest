@@ -16,7 +16,7 @@ int main()
 	printf("4,13354247,罗锦涛,Luojt3,71,100,100,90\n");
 	printf("4,13354483,zhuhengbo,zhuhb,71,80,100,90\n");
 	printf("4,12353054,郭凌峰,GuoLingfeng,78,100,100,90\n");
-	printf("4,13354153,liguirong,LiGuiRong,68,85,100,90\n");
+	printf("4,13354153,李贵荣,LiGuiRong,68,85,100,90\n");
 	printf("4,13354176,lizhufeng,LiZhuFeng,65,50,100,90\n");
 	printf("4,13354133,揭英群,Vinsion1993,71,80,100,90\n");
 	printf("4,13354239,路瑶,gongzifei,73,100,100,90\n");
