@@ -16,5 +16,6 @@ printf("1,13354325, Wangjianzheng, scp096 , 83,100,100,95\n");
 printf("1,13354093, Hezhongkang, hezhongkang , 88,80,100,95\n");
 printf("1,13354170, Lixinfeng, lixinfeng13, 82,90,100,95\n");
 printf("1,12353036, DaiKun, gonelikefly, 81,90,100,95\n");
+printf("Chen Ran,crdiy,1,50\n");
 return 0;
 }
