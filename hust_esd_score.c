@@ -9,5 +9,7 @@ printf("Group,StudentID,Name,GithubID,examination_score,Lab_score,Participation 
 
 printf("0,12330xxx,Kevin Xie,xknxknqq,78,90,95,100\n");
 
+printf("0,111111111,zhu you hua,zyhzyh,90,90,90,90\n");
+
 return 0;
 }
