@@ -18,6 +18,7 @@ printf("0,20150915,Chen Ran,crdiy,50,50,50,50\n");
 
 printf("0,4341324124,wjq,fasdfsf,1000,100,1000\n");
 
+printf("0,4341324125,yangjiaqing,yang,100,100,99\n");
 
 return 0;
 }
